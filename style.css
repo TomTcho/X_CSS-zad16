@@ -1,0 +1,20 @@
+h1 {
+    width: 168px;
+    height: 350px;
+    background-color: #808080;
+    text-indent: 10px;
+    font-size: 15px;
+    color: white;
+    alignment-baseline: text-after-edge;
+    margin-block-start: -8px;
+    font-weight: normal;
+    margin-inline-start: -9px;
+}
+
+div {
+    width: 70px;
+    height: 70px;
+    background-color: #fea500;
+    margin-block-start: 6px;
+    margin-inline-start: 17px;
+}
