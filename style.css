@@ -1,20 +1,19 @@
-h1 {
-    width: 168px;
-    height: 350px;
+.box{
+    width: 350px;
+    height: 750px;
     background-color: #808080;
     text-indent: 10px;
     font-size: 15px;
     color: white;
-    alignment-baseline: text-after-edge;
-    margin-block-start: -8px;
+    initial-letter-align: text-after-edge;
     font-weight: normal;
-    margin-inline-start: -9px;
+    padding: 5px;
 }
 
 div {
-    width: 70px;
-    height: 70px;
+    width: 150px;
+    height: 150px;
     background-color: #fea500;
-    margin-block-start: 6px;
+    margin-block-start: 10px;
     margin-inline-start: 17px;
 }
